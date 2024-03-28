@@ -10,6 +10,7 @@ The dataset contains information on products across three categories:
 It also contains features such as order and customer IDs, order and shipping dates, customer name, segment and location, etc.
 
 ### Data Preparation:
+- Duplicate entries were removed
 - The ID columns were converted to text
 - The dates were converted from text to dates
 - The customer names were properly formatted
