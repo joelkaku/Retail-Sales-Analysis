@@ -1,4 +1,5 @@
-![Dashboard image](https://github.com/joelkaku/Retail-Sales-Analysis/assets/131392907/9b80a697-a7c7-48aa-b281-e24ebd24d6cb)
+
+![superstore](https://github.com/user-attachments/assets/3a68c143-367b-48fb-954d-d3c6fa11c480)
 
 # Retail-Sales-Analysis
 This is an exploratory analysis performed in Excel on a US Retail Store's data.
