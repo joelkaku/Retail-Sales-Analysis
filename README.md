@@ -1,7 +1,7 @@
 
 ![superstore](https://github.com/user-attachments/assets/3a68c143-367b-48fb-954d-d3c6fa11c480)
 
-Access the interactive dashboard here: https://rb.gy/3cz6r1
+### Access the interactive dashboard here: https://rb.gy/3cz6r1
 
 # Retail-Sales-Analysis
 This is an exploratory analysis performed in Excel on a US Retail Store's data.
